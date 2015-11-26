@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="BLL\Security\UserManager.cs" />
     <Compile Include="DAL\Security\ApplicationDbContext.cs" />
+    <Compile Include="Entities\Security\ApplicationRole.cs" />
     <Compile Include="Entities\Security\ApplicationUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
