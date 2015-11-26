@@ -3,6 +3,8 @@ using Microsoft.Owin.Security;
 using System;
 using System.Web;
 using web;
+using YourSystemLibrary.BLL.Security;
+using YourSystemLibrary.Entities.Security;
 
 public partial class Account_RegisterExternalLogin : System.Web.UI.Page
 {

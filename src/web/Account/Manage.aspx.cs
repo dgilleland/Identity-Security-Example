@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using web;
+using YourSystemLibrary.BLL.Security;
 
 public partial class Account_Manage : System.Web.UI.Page
 {

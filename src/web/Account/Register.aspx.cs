@@ -3,6 +3,8 @@ using System;
 using System.Linq;
 using System.Web.UI;
 using web;
+using YourSystemLibrary.BLL.Security;
+using YourSystemLibrary.Entities.Security;
 
 public partial class Account_Register : Page
 {
